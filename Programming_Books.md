@@ -76,6 +76,13 @@
 
 - [Programming Notes for Professionals in almost every language](https://books.goalkicker.com/) : The Notes for Professionals books are compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow.
 
+- [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) : The bestselling JavaScript reference, the JavaScript Bible is a classic bestseller that keeps you up to date on the latest changes in JavaScript, the leading technology for incorporating interactivity into Web pages. Part tutorial, part reference, this book serves as both a learning tool for building new JavaScript skills as well as a detailed reference for the more experienced JavaScript user.
+
+- [Good Code, Bad Code](https://www.manning.com/books/good-code-bad-code) : Practical techniques for writing code that is robust, reliable, and easy for team members to understand and adapt.
+
+- [100 Go Mistakes: How to avoid them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them) : Spot errors in your Go code you didn’t even know you were making and boost your productivity by avoiding common mistakes and pitfalls.
+
+- [Skills of a Software Developer](https://www.manning.com/books/skills-of-a-software-developer) : The skills and knowledge you need to grow from a solo coder into a productive member of a software development team.
 
 ## React
 
@@ -87,3 +94,6 @@
 ## Coding Interviews
 
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?keywords=cracking+the+coding+interview&qid=1576284109&sr=8-2): A thorough walkthrough on coding interview topics with a good range of easy-to-difficult interview questions and solutions with in-depth explanations.
+
+## Better Coding
+- [Clean Code](https://www.google.com/aclk?sa=L&ai=DChcSEwjO15G4_arzAhWQMCsKHb1ACDgYABAJGgJzZg&ae=2&sig=AOD64_1puk7T7JbjKYxmZA0EVmYFBRn1Hg&ctype=5&q=&ved=2ahUKEwihl4m4_arzAhVTXHwKHZzVAaoQ9aACegQIARBb&adurl=): Learn to write better code which is more readable to others.
